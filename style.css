@@ -1,0 +1,44 @@
+.heading{
+    font-size: 23px;
+    width: 380px;
+    margin: 0px;
+    margin-left: 37px;
+    margin-top: 15px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+    
+    box-shadow: 5px 5px 5px green;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.copy_right_footer{
+
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px green;
+}
+.note{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 16px;
+    background-color:orangered;
+    padding: 5px;
+    border-radius: 25px;
+    color: white;
+    
+}
+b{
+    font-family: 'Kaushan Script', cursive;
+}
